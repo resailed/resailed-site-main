@@ -17,7 +17,7 @@ function App() {
       <h1>There is nothing here.</h1>
       <p>
         Ok so i havent actually put anything here but i will eventually (probably). I do have a 
-                <a href="https://www.shop.resailed.com/" rel="noopener"> threadless shop</a> so check it out.
+                <a href="https://shop.resailed.com/" rel="noopener"> threadless shop</a> so check it out.
       </p>
       <br/>
       <h2>Here is the date in case u forgot:</h2>
